@@ -25,5 +25,7 @@ scoreboard-starting:
 arenagroup-solo: 'Одиночный'
 arenagroup-double: 'Двойной'
 
+chat-format: '&7(<player_level>★) <player_name>: &f<message>'
+
 game-start-message: '&eИгра начнеться через &a<timer> &eсек.'
 game-start-stopped: '&cНедостаточно игроков для начала игры!'
