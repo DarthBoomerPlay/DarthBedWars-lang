@@ -22,5 +22,8 @@ scoreboard-starting:
 - ''
 - '&e<server_site>'
 
+arenagroup-solo: 'Одиночный'
+arenagroup-double: 'Двойной'
+
 game-start-message: '&eИгра начнеться через &a<timer> &eсек.'
 game-start-stopped: '&cНедостаточно игроков для начала игры!'
