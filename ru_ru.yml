@@ -28,7 +28,7 @@ arenagroup-double: 'Двойной'
 chat-format: '&7(<player_level>★) <player_name>: &f<message>'
 
 join-player-broadcast: '&7<player_name> &eподключился к игре!'
-quit-player-broadcast: '&7<player_name> &eотключился к игре!'
+quit-player-broadcast: '&7<player_name> &eотключился от игры!'
 
 game-start-message: '&eИгра начнеться через &a<timer> &eсек.'
 game-start-stopped: '&cНедостаточно игроков для начала игры!'
